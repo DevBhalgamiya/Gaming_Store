@@ -1,8 +1,8 @@
 # Gaming Store
 
-<img src="" alt="GAMESTORE" />
+<img src="https://github.com/DevBhalgamiya/Gaming_Store/blob/master/Hero.png" alt="GAMESTORE" />
 
-Available ScriptsMyKD Template Clone is a modern, visually stunning portfolio website meticulously recreated using React, Tailwind CSS, and GSAP animations. Inspired by the original MyKD template, this clone captures the essence of sleek design, responsiveness, and seamless interactivity.
+Available Scripts MyKD Template Clone is a modern, visually stunning portfolio website meticulously recreated using React, Tailwind CSS, and GSAP animations. Inspired by the original MyKD template, this clone captures the essence of sleek design, responsiveness, and seamless interactivity.
 
 # About the Project
 
